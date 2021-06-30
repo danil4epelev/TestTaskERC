@@ -1,0 +1,12 @@
+D:\Job\TestTaskERC\bin\Debug\TestTaskERC.exe.config
+D:\Job\TestTaskERC\bin\Debug\TestTaskERC.exe
+D:\Job\TestTaskERC\bin\Debug\TestTaskERC.pdb
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.csproj.AssemblyReference.cache
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.Properties.Resources.resources
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.csproj.GenerateResource.cache
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.csproj.CoreCompileInputs.cache
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.exe
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.pdb
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.Form1.resources
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.Form2.resources
+D:\Job\TestTaskERC\obj\Debug\TestTaskERC.Forms.Results.resources
